@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DnDCharacterTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2019-01-10T22:55:30" hostname="I7-67000-DESKTOP" time="0.011">
+  <properties/>
+  <testcase name="testAbilityModifierForScore3IsNegative4" classname="DnDCharacterTest" time="0.001"/>
+  <testcase name="testAbilityModifierForScore4IsNegative3" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testRandomAbilityIsWithinRange" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore5IsNegative3" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore10Is0" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore11Is0" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore12Is1" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore13Is1" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore14Is2" classname="DnDCharacterTest" time="0.001"/>
+  <testcase name="testAbilityModifierForScore15Is2" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore16Is3" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore17Is3" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore18Is4" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testEachAbilityIsOnlyCalculatedOnce" classname="DnDCharacterTest" time="0.001"/>
+  <testcase name="testAbilityModifierForScore6IsNegative2" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore7IsNegative2" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore8IsNegative1" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testAbilityModifierForScore9IsNegative1" classname="DnDCharacterTest" time="0.0"/>
+  <testcase name="testRandomCharacterIsValid" classname="DnDCharacterTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
