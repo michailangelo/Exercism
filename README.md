@@ -1,3 +1,3 @@
 # Exercism
 Exercism exercises
-Solutions to the Java track of exercism
+Solutions to the Java track of the platform.
