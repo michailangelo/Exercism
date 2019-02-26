@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AllergiesTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-02-21T19:30:47" hostname="I7-67000-DESKTOP" time="0.004">
+  <properties/>
+  <testcase name="isAllergicToEggsAndShellfish" classname="AllergiesTest" time="0.002"/>
+  <testcase name="isAllergicToLotsOfStuff" classname="AllergiesTest" time="0.0"/>
+  <testcase name="isAllergicToJustEggs" classname="AllergiesTest" time="0.0"/>
+  <testcase name="allergicToStrawberriesButNotPeanuts" classname="AllergiesTest" time="0.0"/>
+  <testcase name="ignoreNonAllergenScoreParts" classname="AllergiesTest" time="0.001"/>
+  <testcase name="noAllergiesMeansNotAllergicToAnything" classname="AllergiesTest" time="0.0"/>
+  <testcase name="isAllergicToJustPeanuts" classname="AllergiesTest" time="0.0"/>
+  <testcase name="isAllergicToEggsAndPeanuts" classname="AllergiesTest" time="0.0"/>
+  <testcase name="allergicToEggsInAdditionToOtherStuff" classname="AllergiesTest" time="0.0"/>
+  <testcase name="allergicToEggs" classname="AllergiesTest" time="0.0"/>
+  <testcase name="isAllergicToEverything" classname="AllergiesTest" time="0.0"/>
+  <testcase name="isAllergicToJustStrawberries" classname="AllergiesTest" time="0.0"/>
+  <testcase name="noAllergies" classname="AllergiesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
