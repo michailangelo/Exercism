@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsbnVerifierTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2019-01-31T15:55:18" hostname="I7-67000-DESKTOP" time="0.006">
+  <properties/>
+  <testcase name="isbnWithoutCheckDigit" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalidCharacterInIsbn" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="emptyIsbn" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="validIsbnNumberWithCheckDigitOfTen" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="tooShortIsbn" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="checkDigitIsACharacterOtherThanX" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="tooLongIsbnAndNoDashes" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="xIsOnlyValidAsACheckDigit" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="inputIsNineCharacters" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="isbnWithoutSeparatingDashesAndXAsCheckDigit" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="validIsbnNumber" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="isbnWithoutCheckDigitAndDashes" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="validIsbnWithoutSeparatingDashes" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="inputIsTooLongButContainsAValidIsbn" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="checkDigitOfXShouldNotBeUsedForZero" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalidIsbnCheckDigit" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalidCharactersAreNotIgnored" classname="IsbnVerifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
