@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordSearcherTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2019-04-10T19:51:59" hostname="I7-67000-DESKTOP" time="0.009">
+  <properties/>
+  <testcase name="testShouldLocateThatDifferentLeftToRightWordInADifferentPosition" classname="WordSearcherTest" time="0.002"/>
+  <testcase name="testLocatesWordsWrittenTopRightToBottomLeft" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testAcceptsInitialGridAndTargetWord" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testShouldLocateMultipleWords" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesWordsWrittenBottomRightToTopLeft" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesSameWordWrittenLeftToRightInDifferentTenLineGrid" classname="WordSearcherTest" time="0.001"/>
+  <testcase name="testShouldLocateMultipleWordsWrittenInDifferentHorizontalDirections" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testFailsToLocateAWordsThatIsNotInThePuzzle" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testShouldLocateASingleWordRightToLeft" classname="WordSearcherTest" time="0.001"/>
+  <testcase name="testLocatesWordsWrittenTopToBottom" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesWordWrittenLeftToRightInTenLineGrid" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesWordsWrittenTopLeftToBottomRight" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesWordsWrittenBottomToTop" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testShouldLocateLeftToRightWordInThreeLineGrid" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesOneWordWrittenLeftToRight" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesDifferentWordWrittenLeftToRightInTenLineGrid" classname="WordSearcherTest" time="0.001"/>
+  <testcase name="testShouldLocateTheSameWordLeftToRightInDifferentPosition" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testShouldLocateADifferentLeftToRightWord" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testShouldLocateLeftToRightWordInTwoLineGrid" classname="WordSearcherTest" time="0.0"/>
+  <testcase name="testLocatesWordsWrittenBottomLeftToTopRight" classname="WordSearcherTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
