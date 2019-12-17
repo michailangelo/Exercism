@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrainsTest" tests="11" skipped="3" failures="0" errors="0" timestamp="2019-12-17T18:48:03" hostname="I7-67000-DESKTOP" time="0.014">
+  <properties/>
+  <testcase name="countAtSquare16" classname="GrainsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="countAtSquare32" classname="GrainsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="countAtSquare64" classname="GrainsTest" time="0.001"/>
+  <testcase name="errorOnExcessiveBoardSize" classname="GrainsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="errorOnNegativeBoardSize" classname="GrainsTest" time="0.004"/>
+  <testcase name="countAtSquare1" classname="GrainsTest" time="0.001"/>
+  <testcase name="countAtSquare2" classname="GrainsTest" time="0.0"/>
+  <testcase name="countAtSquare3" classname="GrainsTest" time="0.0"/>
+  <testcase name="countAtSquare4" classname="GrainsTest" time="0.0"/>
+  <testcase name="errorOnNullBoardSize" classname="GrainsTest" time="0.001"/>
+  <testcase name="totalNumberOfGrainsOnABoard" classname="GrainsTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
